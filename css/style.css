@@ -136,6 +136,7 @@ ul {
   position: fixed;
   bottom: 70px;
   right: 20px;
+  z-index: 1000;
   display: none;
   z-index: 1000;
 }

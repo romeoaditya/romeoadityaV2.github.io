@@ -80,9 +80,9 @@ ul {
 /* bot start */
 #init{
   position: fixed;
-  top: 34rem;
-  right: 5rem;
-  margin-top: 2rem;
+ bottom: 20px;
+  right: 20px;
+  z-index: 1000;
   background: var(--skin-color);
   border: none;
   padding: 10px 20px;

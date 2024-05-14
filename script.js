@@ -46,10 +46,10 @@ var data = {
       "Thanks for reaching out!",
       " To collaborate with me you can click the button below",
     ],
-    options: ["Collaborations", "Other Options"],
+    options: ["Collaborations"],
     url: {
-      more: "https://my-portfolio-v2.romeoaditya1.repl.co/#contact",
-      link: ["https://my-portfolio-v2.romeoaditya1.repl.co/#contact"],
+      more: "https://romeoaditya.github.io/romeoadityaV2.github.io/#contact",
+      link: ["https://romeoaditya.github.io/romeoadityaV2.github.io/#contact"],
     },
   },
   contact: {
@@ -57,10 +57,10 @@ var data = {
       "Thanks for reaching out!",
       " To contact me you can click the button below",
     ],
-    options: ["Contact Me", "Other Options"],
+    options: ["Contact Me"],
     url: {
-      more: "https://my-portfolio-v2.romeoaditya1.repl.co/#contact",
-      link: ["https://my-portfolio-v2.romeoaditya1.repl.co/#contact"],
+      more: "https://romeoaditya.github.io/romeoadityaV2.github.io/#contact",
+      link: ["https://romeoaditya.github.io/romeoadityaV2.github.io/#contact"],
     },
   },
   just: {
